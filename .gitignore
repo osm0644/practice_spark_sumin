@@ -1,0 +1,5 @@
+# Project exclude paths
+/project-spark/.gradle/
+/project-spark/module-core/build/
+/project-spark/module-infra-spark/build/
+/project-spark/service-batch-statistics/.gradle/
